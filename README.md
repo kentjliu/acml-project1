@@ -17,6 +17,8 @@ Sources:
 * T4: https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/tesla-t4/t4-tensor-core-datasheet-951643.pdf
 
 # PyTorch Profiler Data
+This data was gathered by running the scripts under the `pytorch` directory.
+
 ### ResNet50
 | Metric                 | T4    | L4    | A100  |
 |------------------------|-------|-------|-------|
