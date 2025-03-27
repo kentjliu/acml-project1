@@ -1,5 +1,4 @@
 import os
-os.environ["HF_TOKEN"] = "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"
 
 import torch
 import time
